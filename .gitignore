@@ -1,1 +1,4 @@
-Python
+.env
+.DS_store
+main.py
+.ipynb_checkpoints
